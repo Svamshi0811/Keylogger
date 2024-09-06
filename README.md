@@ -1,1 +1,0 @@
-Keyloggers are programs designed to capture and log keystrokes on a keyboard, often used for malicious purposes like stealing sensitive information. However, they can also be used for legitimate purposes like parental control, monitoring one's own computer, or testing cybersecurity defenses.
